@@ -20,7 +20,11 @@ After you've submitted your answers we'll review them and discuss in detail our 
 
 ## Practical questions
 
-There's a vulnerable web application running at [http://35.242.133.24:8080/](http://35.242.133.24:8080/). Break both of its endpoints and give us the secrets you find.
+There's a vulnerable web application running at [http://35.242.133.24:8080/](http://35.242.133.24:8080/). Break both of its endpoints and place the secrets you find in the sections below.
+
+### /inbox
+
+### /quota
 
 ## Theoretical questions
 
